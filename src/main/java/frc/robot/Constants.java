@@ -51,6 +51,6 @@ public final class Constants {
     }
 
     public static final class Shooter {
-
+        public static final int SHOOTER_ID = 13;
     }
 }
