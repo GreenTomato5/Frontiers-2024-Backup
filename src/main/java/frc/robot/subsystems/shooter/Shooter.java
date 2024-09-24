@@ -2,7 +2,6 @@ package frc.robot.subsystems.shooter;
 
 import frc.robot.Constants;
 import frc.robot.subsystems.Subsystem;
-import frc.robot.subsystems.manager.ManagerStates;
 import frc.robot.subsystems.shooter.ShooterIO.ShooterIOOutputs;
 import org.littletonrobotics.junction.Logger;
 

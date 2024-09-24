@@ -1,6 +1,5 @@
 package frc.robot.subsystems.shooter;
 
-import frc.robot.Constants;
 import frc.robot.subsystems.SubsystemStates;
 
 public enum ShooterStates implements SubsystemStates {
