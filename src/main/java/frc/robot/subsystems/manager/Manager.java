@@ -52,6 +52,11 @@ public class Manager extends Subsystem<ManagerStates> {
     }
 
     @Override
+    public void periodic() {
+        super.periodic();
+    }
+
+    @Override
     public void runState() {
         driveSubsystem.periodic();
     }
